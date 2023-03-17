@@ -1,0 +1,81 @@
+ul#index {
+  padding-left: 0;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+
+#message {
+  height: 20em;
+}
+
+body {
+  font-family: 'Montserrat';
+}
+
+.mainLine {
+  padding: 2% 10%;
+  background-color: #9C0F48;
+  margin: 0px;
+}
+
+/* header */
+
+.header {
+
+  color: #E9E8E8;
+  text-align: center;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  font-family: 'Montserrat';
+
+}
+
+
+/* Footer */
+
+.bottom-container {
+  background-color: #3C4048;
+  font-family: 'Montserrat';
+  text-align: center;
+  color: #EAF6F6;
+  padding: 1%;
+}
+
+.footer-link {
+  color: #EAF6F6;
+  text-decoration: none;
+  margin: 2%;
+}
+
+.copyright {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  padding: 20px 0;
+}
+
+.menu {
+
+  font-size: 1.5rem;
+  color: black;
+}
+
+
+div.container
+{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2em;
+}
+
+a{
+  text-decoration: none;
+}
+
+.signButton {
+  margin: 1% 2% 3% 0;
+}
+
+.ss
+{
+  text-decoration: none;
+}
